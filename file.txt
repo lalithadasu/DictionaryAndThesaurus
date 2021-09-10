@@ -1,0 +1,21 @@
+rueful:feeling, showing, or expressing sorrow, repentance, or regret
+dampen:to dull or deaden
+diminish:to dull or deaden
+happy:delighted, pleased, or glad, as over a particular thing
+cheerful:delighted, pleased, or glad, as over a particular thing
+respect:esteem for or a sense of the worth or excellence of a person
+regard:esteem for or a sense of the worth or excellence of a person
+belittle:to regard or portray as less impressive or important
+thing:an inanimate material object as distinct from a living sentient being
+object:an inanimate material object as distinct from a living sentient being
+article:an inanimate material object as distinct from a living sentient being
+free:able to act or be done as one wishes
+unconfined:able to act or be done as one wishes
+ask:say something in order to obtain an answer or some information
+query:say something in order to obtain an answer or some information
+question:say something in order to obtain an answer or some information
+handle:feel or manipulate with the hands
+hold:feel or manipulate with the hands
+plenty:a large or sufficient amount or quantity; more than enough
+many:a large or sufficient amount or quantity; more than enough
+
